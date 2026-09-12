@@ -1,1 +1,2 @@
-# print("Workspace works")
+print("Workspace works")
+print("Workspace not work")
