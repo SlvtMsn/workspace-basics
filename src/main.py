@@ -1,2 +1,3 @@
 print("Workspace works")
-print("Workspace not work")
+print("Workspace works in my laptop")
+print("AI teaches coding")
