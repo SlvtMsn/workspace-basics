@@ -11,3 +11,4 @@ WORKSPACE-BASICS
 2. Запуск проекта
 - Скопировать репозиторий к себе в удобное место. Например: C:/dev/workspace-basics
 - Открыть терминал внутри репозитория в корневом каталоге и выполнить команду: python src/main.py
+Remote change from GitHub.
